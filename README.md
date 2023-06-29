@@ -1,1 +1,1 @@
-# Rest-API-using-java
+# rest-api-spring-boot-demo
